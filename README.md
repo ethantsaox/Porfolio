@@ -21,7 +21,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/ethantsaox/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | Solutions to Case Studies related to SQL
+| [8-Week SQL Challenges](https://github.com/ethantsaox/8-Week-SQL-Challenge) | Data Cleaning, Analysis, and Transformation | Used PostGRE SQL to complete various case studies, demonstrating proficiency in SQL query writing and problem-solving.
 
 ***
 
