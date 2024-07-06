@@ -29,6 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
+| [Youtube API](https://github.com/ethantsaox/Youtube-API) | Data Wrangling/EDA | This project examines Mark Rober's YouTube channel, analyzing video statistics, engagement metrics, upload schedule, and content themes using visualizations and NLP techniques to provide insights into factors influencing video performance and viewer engagement.
 
 
 ***
