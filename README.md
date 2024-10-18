@@ -21,6 +21,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
+| [Lab 1](https://github.com/ethantsaox/Lab-1) |
+
 
 ***
 
