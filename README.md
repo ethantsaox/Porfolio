@@ -4,10 +4,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📋 Table of Contents
 - [Data Engineering](#data-engineering)
+- [R](#R)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [R](#R)
+
 
 # Data Engineering
 
