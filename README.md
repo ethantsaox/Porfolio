@@ -39,7 +39,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Area | Project Description | Platform/Libraries |    
 |---|---|---|---|---|
-| [Youtube API](https://github.com/ethantsaox/Youtube-API) | 6/20/24 | Data Wrangling/EDA | This project examines Mark Rober's YouTube channel, analyzing video statistics, engagement metrics, upload schedule, and content themes using visualizations and NLP techniques to provide insights into factors influencing video performance and viewer engagement. | pandas, matplotlib, seaborn
+| [Youtube API](https://github.com/ethantsaox/Youtube-API) | 6/20/24 | Data Wrangling/EDA | This project examines Mark Rober's YouTube channel, analyzing video statistics, engagement metrics, upload schedule, and content themes using visualizations and NLP techniques to provide insights into factors influencing video performance and viewer engagement. | Pandas, Matplotplib, Seaborn, Jupyterlab
 
 
 ***
