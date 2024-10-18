@@ -16,6 +16,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
+# R
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+
+***
+
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
