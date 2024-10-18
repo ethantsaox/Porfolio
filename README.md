@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Data Engineering
 
 | Project Link | Completion Date | Area | Project Description | Libraries
-|---|---|---|---|
+|---|---|---|---|---|
 
 
 ***
@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # R
 
 | Project Link | Completion Date | Area | Project Description | Libraries
-|---|---|---|---|
+|---|---|---|---|---|
 | [Lab 1](https://github.com/ethantsaox/Lab-1) | 10/01/24 | R Exercises | Practicing basic R Markdown. | R Markdown
 | [Lab 2](https://github.com/ethantsaox/Lab-2) | 10/09/24 | Data Analysis | Collected data and ran a statistical experiment. | R Markdown
 
