@@ -24,7 +24,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|---|
 | [Intro to R Markdown](https://github.com/ethantsaox/Lab-1) | 10/01/24 | R Exercises | Practicing basic R Markdown. | R Markdown
 | [Paper Airplane Experiment](https://github.com/ethantsaox/Lab-2) | 10/09/24 | Data Analysis | Collected data and ran a statistical experiment. | R Markdown
-| [Permutation Tests and ANOVA](https://github.com/ethantsaox/Lab-3) | 10/20/24 | Data Analysis | Permutation Tests and Anova. | R Markdown
+| [Permutation Tests and ANOVA](https://github.com/ethantsaox/Lab-3) | 10/20/24 | Data Analysis | Ran tests on and plotted multiple datasets. | R Markdown
 
 ***
 
